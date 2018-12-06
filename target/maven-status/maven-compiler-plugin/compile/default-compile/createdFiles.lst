@@ -1,0 +1,4 @@
+soap\ws\example\server\WebServicePublisher.class
+soap\ws\example\server\OrderService.class
+soap\ws\example\server\OrderServiceImpl.class
+soap\ws\example\client\GreetingClient.class
